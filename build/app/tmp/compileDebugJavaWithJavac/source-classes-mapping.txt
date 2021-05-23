@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/bitcoin_picker/MainActivity.java
+ com.example.bitcoin_picker.MainActivity
+com/example/bitcoin_picker/BuildConfig.java
+ com.example.bitcoin_picker.BuildConfig
